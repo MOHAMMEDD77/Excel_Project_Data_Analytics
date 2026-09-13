@@ -11,7 +11,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 ## Salary Analysis
 exploring the most optimal jobs and skills in the data science market and what skills top employers request to land more pay.
 
-[Checkout my work here](Project_2-analysis)
+[Checkout my work here](Project_2-Analysis)
 
 
 <img width="874" height="537" alt="2_Project_Analysis_Chart1" src="https://github.com/user-attachments/assets/7a241553-c3d7-475d-9018-91fc1ab70255" />
